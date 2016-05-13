@@ -1,4 +1,4 @@
-AsciiDoc User Guide
+AsciiDoc User Guide Shawn Zhu Test
 ===================
 Stuart Rackham <srackham@gmail.com>
 :Author Initials: SJR
@@ -14,6 +14,10 @@ HTML, PDF, EPUB, man page.  AsciiDoc is highly configurable: both the
 AsciiDoc source file syntax and the backend output markups (which can
 be almost any type of SGML/XML markup) can be customized and extended
 by the user.
+
+I'm testing it.
+我正在做测试。
+在测试哦……
 
 .This document
 **********************************************************************
@@ -54,3 +58,33 @@ documents to almost any SGML/XML markup.
 asciidoc(1) comes with a set of configuration files to translate
 AsciiDoc articles, books and man pages to HTML or DocBook backend
 formats.
+
+.My AsciiDoc Itch
+**********************************************************************
+DocBook has emerged as the de facto standard Open Source documentation
+format. But DocBook is a complex language, the markup is difficult to
+read and even more difficult to write directly -- I found I was
+spending more time typing markup tags, consulting reference manuals
+and fixing syntax errors, than I was writing the documentation.
+**********************************************************************
+
+
+[[X6]]
+Getting Started
+---------------
+Installing AsciiDoc
+~~~~~~~~~~~~~~~~~~~
+See the `README` and `INSTALL` files for install prerequisites and
+procedures. Packagers take a look at <<X38,Packager Notes>>.
+
+[[X11]]
+Example AsciiDoc Documents
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The best way to quickly get a feel for AsciiDoc is to view the
+AsciiDoc web site and/or distributed examples:
+
+- Take a look at the linked examples on the AsciiDoc web site home
+  page {website}.  Press the 'Page Source' sidebar menu item to view
+  corresponding AsciiDoc source.
+- Read the `*.txt` source files in the distribution `./doc` directory
+  along with the corresponding HTML and DocBook XML files.
