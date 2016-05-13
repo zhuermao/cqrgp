@@ -20,6 +20,16 @@ I'm testing it.
 我正在做测试。 +
 在测试哦……
 
+== Paragraphs
+
+image::images/sunset.jpg[]
+
+.Normal
+----
+include::test2.asciidoc
+----
+
+
 .This document
 **********************************************************************
 This is an overly large document, it probably needs to be refactored
