@@ -1,5 +1,5 @@
 AsciiDoc User Guide Shawn Zhu Test
-===================
+==================================
 Stuart Rackham <srackham@gmail.com>
 :Author Initials: SJR
 :toc:
@@ -16,7 +16,8 @@ be almost any type of SGML/XML markup) can be customized and extended
 by the user.
 
 I'm testing it.
-我正在做测试。
+
+我正在做测试。 +
 在测试哦……
 
 .This document
